@@ -1,0 +1,26 @@
+* {background-image:url('http://37.media.tumblr.com/96afd6735a6dc54741e6a4d1c4235590/tumblr_n47g5hfpkh1tv9xj5o1_400.png')}
+.all {text-align: center;font-family: "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", Geneva, Verdana, sans-serif;}
+a {text-decoration:none;} 
+
+/* mainpage link */
+#mainpage {color:#451660;text-decoration:underline;} 
+#mainpage:link {color:#451660;}
+#mainpage:visited {color:#451660;}
+#mainpage:hover {color:#BA1660;}
+#mainpage:active {color:#DC3882;}
+/* mainpage link */
+
+header {font-family: Perpetua, Baskerville, "Big Caslon", "Palatino Linotype", Palatino, "URW Palladio L", "Nimbus Roman No9 L", serif;font-size:70px;margin:20px 0px 0px 25%;color:#451660;background-image:none;background-color:#DED9C2;border-radius:20px;width:50%;}
+
+.list1>a  {padding:0px 10px;font-size:24px;background-image:none;background-color: #CDC8B1;border-style:groove;border-color:#707070;}
+<!-- why..why..why..why..why..why..why..  -->
+
+.list1>a:link {color:#780570;}    /* unvisited link */
+.list1>a:visited {color:#780570;} /* visited link */
+.list1>a:hover {color:#CD0570;}   /* mouse over link */
+.list1>a:active {color:#DF2792;}  /* selected link */
+
+.symbol1 {float:right;margin-top:30px;}
+.textblock {width:50%;margin-top:4%;padding:10px;display:inline-block;background-image:none;background-color:#EFD9C2;border-style:groove;border-color:#707070;font-size:24px;font-family:Times New Roman;font-size:28px;}
+
+

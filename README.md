@@ -6,6 +6,8 @@
   <meta name="keywords" content="Hedonism,Hedonion,happiness,joy">
   <meta name="author" content="Sam Tsai">
   <meta charset="UTF-8">
+  
+  <link rel="stylesheet" type="text/css" href="Hedonioncss">
 </head>
 
 <div class="all">  

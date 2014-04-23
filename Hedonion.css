@@ -2,7 +2,7 @@
 .all {text-align: center;font-family: "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", Geneva, Verdana, sans-serif;}
 a {text-decoration:none;} 
 
-/* mainpage link */
+/* mainpage link */ 
 #mainpage {color:#451660;text-decoration:underline;} 
 #mainpage:link {color:#451660;}
 #mainpage:visited {color:#451660;}

@@ -4,14 +4,6 @@
 a {text-decoration:none;} 
 /* css for all */
 
-/* mainpage link */
-#mainpage {color:#451660;text-decoration:underline;font-size:20px;} 
-#mainpage:link {color:#451660;}
-#mainpage:visited {color:#451660;}
-#mainpage:hover {color:#BA1660;}
-#mainpage:active {color:#DC3882;}
-/* mainpage link */
-
 /* header */
 header {font-family: Perpetua, Baskerville, "Big Caslon", "Palatino Linotype", Palatino, "URW Palladio L", "Nimbus Roman No9 L", serif;font-size:5em;margin:20px 0px 0px 25%;color:#451660;background-image:none;background-color:#DED9C2;border-radius:20px;width:50%;}
 /* header */

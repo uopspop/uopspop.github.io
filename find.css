@@ -4,10 +4,6 @@
 a {text-decoration:none;} 
 /* css for all */
 
-/* header */
-header {font-family: Perpetua, Baskerville, "Big Caslon", "Palatino Linotype", Palatino, "URW Palladio L", "Nimbus Roman No9 L", serif;font-size:4.5em;margin:20px auto 0px auto;color:#451660;background-image:none;background-color:#DED9C2;border-radius:20px;width:70%;}
-/* header */
-
 /* list */
 .list1>a  {padding:0px 10px;font-size:26px;background-image:none;background-color: #CDC8B1;border-style:groove;border-color:#707070;}
 

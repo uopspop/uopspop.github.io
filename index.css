@@ -5,7 +5,7 @@ a {text-decoration:none;}
 /* css for all */
 
 /* mainpage link */
-#mainpage {color:#451660;text-decoration:underline;font-size:1.5em;} 
+#mainpage {color:#451660;text-decoration:underline;font-size:20px;} 
 #mainpage:link {color:#451660;}
 #mainpage:visited {color:#451660;}
 #mainpage:hover {color:#BA1660;}

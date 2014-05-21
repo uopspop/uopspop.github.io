@@ -1,0 +1,58 @@
+/* css for all */
+* {background-image:url('http://37.media.tumblr.com/96afd6735a6dc54741e6a4d1c4235590/tumblr_n47g5hfpkh1tv9xj5o1_400.png')}
+.all {text-align: center;font-family:Times new roman,Times,serif;}
+a {text-decoration:none;} 
+/* css for all */
+
+/* list */
+.list1>a  {padding:0px 10px;font-size:26px;background-image:none;background-color: #CDC8B1;border-style:groove;border-color:#707070;}
+
+.list1>a:link {color:#780570;}
+.list1>a:visited {color:#780570;}
+.list1>a:hover {color:#CD0570;} 
+.list1>a:active {color:#DF2792;}
+/* list */
+
+/* text */
+.textblock {width:50%;margin:4% auto 0px auto;padding:10px;display:inline-block;background-image:none;background-color:#EFD9C2;border-style:groove;border-color:#707070;}
+
+.textblock>p {background-image:none;background-color:#EFD9C2;font-size:28px;font-family:Times New Roman}
+/* text *//* css for all */
+* {background-image:url('http://37.media.tumblr.com/96afd6735a6dc54741e6a4d1c4235590/tumblr_n47g5hfpkh1tv9xj5o1_400.png')}
+.all {text-align: center;}
+a {text-decoration:none;} 
+/* css for all */
+
+/* mainpage link */
+#mainpage {color:#451660;text-decoration:underline;font-size:1.5em;} 
+#mainpage:link {color:#451660;}
+#mainpage:visited {color:#451660;}
+#mainpage:hover {color:#BA1660;}
+#mainpage:active {color:#DC3882;}
+/* mainpage link */
+
+/* list */
+.list1>a  {padding:0px 10px;font-size:1.5em;background-image:none;background-color: #CDC8B1;border-style:groove;border-color:#707070;}
+
+.list1>a:link {color:#780570;}
+.list1>a:visited {color:#780570;}
+.list1>a:hover {color:#CD0570;} 
+.list1>a:active {color:#DF2792;}
+/* list */
+
+/* text */
+
+.textblock {width:70%;margin:4% auto 0px auto;padding:10px;display:inline-block;background-image:none;background-color:#EFD9C2;border-style:groove;border-color:#707070;}
+
+.textblock>p, .textblock>p>strong {text-align:left;background-image:none;background-color:#EFD9C2;font-size:28px;font-family:Times New Roman;}
+
+.textblock>p {margin-left:3%;line-height:200%;}
+
+/* text */
+
+
+
+/* footer */
+footer>p {font-size:1.3em;}
+
+/* footer */

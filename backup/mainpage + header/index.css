@@ -13,6 +13,17 @@ a {text-decoration:none;}
 .list1>a:active {color:#DF2792;}
 /* list */
 
+/* symbol */
+.symbo1 {width:30%;float:right;margin:50px;}
+.textblock {width:50%;margin:4% 0px 0px 5%;padding:10px;display:inline-block;background-image:none;background-color:#EFD9C2;border-style:groove;border-color:#707070;}
+/* symbol */
+
+/* text */
+.textblock>p {background-image:none;background-color:#EFD9C2;font-size:1.7em;font-family:Times New Roman}
+/* text */
+
+
+
 /* footer */
 footer>p {font-size:1.3em;}
 

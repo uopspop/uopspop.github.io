@@ -1,0 +1,7 @@
+.textblock {width:65%;margin:0 auto;text-align:justify;}
+
+.textblock {line-height:270%;}
+
+.textblock {margin:4% 0px 0px 0px;padding:10px 40px;display:inline-block;background-image:none;background-color:#EFD9C2;border-style:groove;border-color:#707070;}
+
+.textblock>p, .textblock p strong {background-image:none;background-color:#EFD9C2;font-size:28px;font-family:Times New Roman}
